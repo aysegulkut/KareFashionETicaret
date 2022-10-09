@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:urun_id;datatype:int,name:urun_ad;datatype:string,name:urun_ozellik;datatype:string,name:urun_fiyat;datatype:real,name:urun_foto;datatype:blob" />
+	<infoitem key="UD_listele" value="name:urun_id;datatype:int,name:urun_ad;datatype:string,name:urun_ozellik;datatype:string,name:urun_fiyat;datatype:real,name:urun_foto1;datatype:blob,name:urun_foto2;datatype:blob,name:urun_foto3;datatype:blob" />
+</info>
